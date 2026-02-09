@@ -1,3 +1,5 @@
+<img width="2816" height="1536" alt="Gemini_Generated_Image_zgzd9tzgzd9tzgzd" src="https://github.com/user-attachments/assets/9ced55e0-bd48-4f88-8c75-4319bbd90e31" />  
+
 # FoodWatch, a CV Food Allergen detector
 Computer Vision project. We trained different YOLO26 models on the Allergen30 Dataset 
 
