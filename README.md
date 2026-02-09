@@ -46,7 +46,7 @@ While slightly lower in raw metrics than the original paper's heavy models, our 
 ___
 
 # Application Overview
-We provide a [zip file](https://drive.google.com/file/d/1blV78wv5YvyApWvAFLylTvwJxKW_k1Mi/view?usp=sharing) containing all the source code for the application along with a pre-compiled .apk file for direct installation on Android devices.
+We provide a [rar file](https://drive.google.com/file/d/1blV78wv5YvyApWvAFLylTvwJxKW_k1Mi/view?usp=sharing) containing all the source code for the application along with a pre-compiled .apk file for direct installation on Android devices.
 
 # Key File Structure
 Once extracted, the core application logic and resources can be found in the following directories:
